@@ -1,0 +1,33 @@
+{
+  "name": "alanpetersen-helper_functions",
+  "version": "0.1.0",
+  "author": "alanpetersen",
+  "summary": "Some potentially useful helper functions, moduled up for convenience.",
+  "license": "Apache 2.0",
+  "source": "https://github.com/alanpetersen/helper_functions",
+  "project_page": "https://github.com/alanpetersen/helper_functions",
+  "issues_url": "https://github.com/alanpetersen/helper_functions/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Debian",
+      "operatingsystemrelease": [
+        "6",
+        "7"
+      ]
+    },
+    {
+      "operatingsystem": "RedHat",
+      "operatingsystemrelease": [
+        "5",
+        "6",
+        "7"
+      ]
+    }
+  ]
+}
